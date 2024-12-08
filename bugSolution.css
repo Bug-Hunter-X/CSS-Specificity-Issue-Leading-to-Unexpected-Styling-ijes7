@@ -1,0 +1,1 @@
+The issue is resolved by understanding and adjusting CSS specificity. In this case, we modify the selectors to ensure that the intended styles are applied correctly.  For example, instead of overriding with a highly specific selector, we could refactor the general styles to be more specific themselves or use the `!important` flag, but use it cautiously. 
