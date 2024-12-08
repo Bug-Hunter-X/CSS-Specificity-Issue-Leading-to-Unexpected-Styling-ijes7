@@ -1,0 +1,1 @@
+This repository demonstrates a common CSS bug related to specificity. The `bug.css` file contains the problematic code where a more specific selector overrides a more general one, leading to unexpected styling. The `bugSolution.css` file provides a solution by adjusting the selectors to achieve the desired outcome.
